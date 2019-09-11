@@ -1,0 +1,6 @@
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_8\bin\Debug\Ejercicio_8.exe.config
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_8\bin\Debug\Ejercicio_8.exe
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_8\bin\Debug\Ejercicio_8.pdb
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_8\obj\Debug\Ejercicio_8.csprojResolveAssemblyReference.cache
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_8\obj\Debug\Ejercicio_8.exe
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_8\obj\Debug\Ejercicio_8.pdb

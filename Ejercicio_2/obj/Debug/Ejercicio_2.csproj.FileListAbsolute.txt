@@ -1,0 +1,12 @@
+D:\Documentos\SharpDevelop Projects\Taller\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+D:\Documentos\SharpDevelop Projects\Taller\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+D:\Documentos\SharpDevelop Projects\Taller\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+D:\Documentos\SharpDevelop Projects\Taller\Ejercicio_2\obj\Debug\Ejercicio_2.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Taller\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+D:\Documentos\SharpDevelop Projects\Taller\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_2\obj\Debug\Ejercicio_2.csprojResolveAssemblyReference.cache
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+D:\Desarrolo_de_software\Net\Taller\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
