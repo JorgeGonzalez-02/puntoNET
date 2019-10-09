@@ -1,0 +1,6 @@
+D:\Documentos\SharpDevelop Projects\ParcialSegundoSegimientoC#\Punto3\bin\Debug\Punto3.exe.config
+D:\Documentos\SharpDevelop Projects\ParcialSegundoSegimientoC#\Punto3\bin\Debug\Punto3.exe
+D:\Documentos\SharpDevelop Projects\ParcialSegundoSegimientoC#\Punto3\bin\Debug\Punto3.pdb
+D:\Documentos\SharpDevelop Projects\ParcialSegundoSegimientoC#\Punto3\obj\Debug\Punto3.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\ParcialSegundoSegimientoC#\Punto3\obj\Debug\Punto3.exe
+D:\Documentos\SharpDevelop Projects\ParcialSegundoSegimientoC#\Punto3\obj\Debug\Punto3.pdb
